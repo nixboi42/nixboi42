@@ -16,6 +16,6 @@ Kerem, high schooler.<br>Linux Enthusiast<br>I like to fiddle with rocks which h
 ![](https://github-contributor-stats.vercel.app/api?username=nixboi42&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=nixboi42&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=nixboi42)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
