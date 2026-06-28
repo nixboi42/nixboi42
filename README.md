@@ -1,5 +1,5 @@
 # 💫 About Me:
-Kerem, high schooler.<br>Linux Enthusiast<br>I like to fiddle with rocks which happen to think.
+Kerem, high schooler.<br>Linux Enthusiast<br>I like to fiddle with rocks which happen to think.<br>Bilingual 🇹🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿<br>Almost fluent in 🇩🇪
 
 
 # 💻 Tech Stack:
